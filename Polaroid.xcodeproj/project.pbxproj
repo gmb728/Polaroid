@@ -12,6 +12,7 @@
 		DD1CBAB721CB284300992C89 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD1CBAB521CB284300992C89 /* Main.storyboard */; };
 		DD1CBAB921CB284700992C89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD1CBAB821CB284700992C89 /* Assets.xcassets */; };
 		DD1CBABC21CB284700992C89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD1CBABA21CB284700992C89 /* LaunchScreen.storyboard */; };
+		DD1CBAC421CB389600992C89 /* OutputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1CBAC321CB389600992C89 /* OutputViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DD1CBAB821CB284700992C89 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD1CBABB21CB284700992C89 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD1CBABD21CB284700992C89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD1CBAC321CB389600992C89 /* OutputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutputViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				DD1CBAB121CB284300992C89 /* AppDelegate.swift */,
 				DD1CBAB321CB284300992C89 /* ViewController.swift */,
 				DD1CBAB521CB284300992C89 /* Main.storyboard */,
+				DD1CBAC321CB389600992C89 /* OutputViewController.swift */,
 				DD1CBAB821CB284700992C89 /* Assets.xcassets */,
 				DD1CBABA21CB284700992C89 /* LaunchScreen.storyboard */,
 				DD1CBABD21CB284700992C89 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD1CBAB421CB284300992C89 /* ViewController.swift in Sources */,
+				DD1CBAC421CB389600992C89 /* OutputViewController.swift in Sources */,
 				DD1CBAB221CB284300992C89 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
